@@ -5,7 +5,6 @@ using System.Threading.Tasks;
 
 namespace saemp_backend.Models
 {
-
     public class ServiceResult
     {
         public String error { get; set; }

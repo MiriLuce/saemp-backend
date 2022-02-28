@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\Lucero HP Touch\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Lucero HP Touch\\.nuget\\packages"
+      "C:\\Users\\Lucero\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Lucero\\.nuget\\packages"
     ]
   }
 }
